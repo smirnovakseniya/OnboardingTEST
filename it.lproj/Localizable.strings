@@ -1,0 +1,23 @@
+/* 
+ Localizable.strings (English).strings
+  SmirnovaKseniyaTEST
+
+  Created by Ксения Смирнова on 8.04.22.
+  
+*/
+
+"nextButton" = "Ulteriore";
+"closeButton" = "Chiudere";
+"resetButton" = "Ricaricare";
+"languageButton" = "Linguaggio";
+"skipButton" = "Saltare";
+
+
+"card1_mainText" = "Ordino a domicilio senza limit di distanza. Non e magia, e Moovenda!";
+"card1_lowerText" = "Pronto?";
+
+"card2_mainText" = "Ongi tanto inviamo degli sconti esclusivi tramite notifiche push, ci stai?";
+"card2_lowerText" = "Pronto?";
+
+"card3_mainText" = "Per sfruttere al massimo l'app, puoi comdividerci la tua posizione?";
+"card3_lowerText" = "Posizione";
